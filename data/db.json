@@ -1,0 +1,18 @@
+{
+    "elokuvia": [
+      {
+        "nimi": "Kung Fu Panda 4",
+        "synopsis": "Tänä keväänä, ensimmäisen kerran lähes vuosikymmeneen, maailman epätodennäköisin kung fu -mestari Po palaa kun rakastettu DreamWorks Animationin toimintakomedia-animaatiosarja saa jatkoa elokuvassa Kung Fu Panda 4.",
+        "kesto": "1 t 34 min",
+        "ohjaaja": "Mike Mitchell, Stephanie Ma Stine",
+        "id": 1
+      },
+      {
+        "nimi": "Luottomies-elokuva: All in",
+        "synopsis": "Tommi Mäkinen-Renwall (Antti Luusuaniemi) haaveilee ylennyksestä ja sen mukana tulevasta palkankorotuksesta. Hieman hövelin Tommin tavoitteena on ostaa unelmien omakotitalo vaimonsa Harrietin (Maria Ylipää) kanssa. Tommin pomo (ja samalla appiukko) Johan Renwall (Taneli Mäkelä) vaatii kuitenkin, että Tommin on ensin todistettava paineensietokykynsä. Naapurissa asuva luottomies Juha ”Juhis” Manner (Kari Ketonen) keksiikin lennokkaan tavan, jolla Tommi voi osoittaa kylmäpäisyytensä. Tästä ei tietenkään seuraa toivottua lopputulosta, ja kasvonsa menettänyt, epätoivoinen Tommi päättää ottaa ohjat omiin käsiinsä. Avioliittokin on vaarassa. Tommi ryhtyy pääomasijoittajaksi vähäisellä ymmärryksellä, ja aluksi tulokset ovat lupaavat... Kunnes lopulta ollaan totaalisen pulassa, ja tarvitaan jälleen Juhiksen suoraviivaista ongelmanratkaisukykyä.",
+        "kesto": "1 t 34 min",
+        "ohjaaja": "Kari Ketonen",
+        "id": 2
+      }
+    ]
+  }
